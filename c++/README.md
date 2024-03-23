@@ -1,5 +1,7 @@
 # Examples to build C++ code
 
+This is Bazel tutorial from https://bazel.build/start/cpp.
+
 This package will showcase how to build C++ code in stages.
 
 ### Stage 1
